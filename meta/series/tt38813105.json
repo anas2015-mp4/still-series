@@ -4,10 +4,10 @@
     "type": "series",
     "name": "Still: A Minecraft Series",
     "genres": ["Animation", "Adventure", "Minecraft"],
-    "poster": "https://img.youtube.com/vi/ujNB1MFB80w/maxresdefault.jpg",
-    "background": "https://img.youtube.com/vi/ujNB1MFB80w/maxresdefault.jpg",
-    "logo": "https://img.youtube.com/vi/ujNB1MFB80w/maxresdefault.jpg",
-    "description": "Produced by SEEN Studio. 'Still' is an immersive Minecraft series following an epic journey.",
+    "poster": "https://i.imgur.com/akgIrNK.png",
+    "background": "https://i.imgur.com/tF8PJsr.png",
+    "logo": "https://i.imgur.com/ve4eTqO.png",
+    "description": "Produced by SEEN Studio. 'Still' is an immersive Minecraft series following an epic journey.Every evening, eight friends log into their shared Minecraft world, 'STILL', to hang out, build ridiculous contraptions, and explore endless biomes. what started as a simple survival world becomes something much more - a complex story.",
     "releaseInfo": "2024",
     "status": "In Production",
     "videos": [
@@ -15,7 +15,7 @@
         "id": "tt38813105:1:0",
         "title": "Episode 0: The Examination",
         "released": "2024-09-28T00:00:00.000Z",
-        "thumbnail": "https://i.ytimg.com/vi/3ico9WTnbjU/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBPH4NDrrXyth6e59_WRIWRvTTC3A",
+        "thumbnail": "https://img.youtube.com/vi/3ico9WTnbjU/maxresdefault.jpg",
         "overview": "As they started thinking about filming their game play together, they gatheround and start's talking about what are they going to do next, but something odd they were never expecting just happened.",
         "season": 1,
         "episode": 0
@@ -24,7 +24,7 @@
         "id": "tt38813105:1:1",
         "title": "Episode 1: An Unexpected arrival",
         "released": "2024-10-24T00:00:00.000Z",
-        "thumbnail": "https://i.ytimg.com/vi/ujNB1MFB80w/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCxdReOV8nqS8hQcgnPpot_lXTUHA",
+        "thumbnail": "https://img.youtube.com/vi/ujNB1MFB80w/maxresdefault.jpg",
         "overview": "As Vex traveled to the STILL place and Anas mysteriously disappeared, his friends were searching for him and eventually they found him but only to find out the real truth they were never expecting.",
         "season": 1,
         "episode": 1
@@ -33,7 +33,7 @@
         "id": "tt38813105:1:2",
         "title": "Episode 2: (Coming Soon)",
         "released": "2026-05-15T00:00:00.000Z",
-        "thumbnail": "",
+        "thumbnail": "https://img.youtube.com/vi/",
         "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
         "season": 1,
         "episode": 2
