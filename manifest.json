@@ -1,9 +1,9 @@
 {
   "id": "com.seen.still",
   "version": "1.0.0",
-  "name": "Still: A Minecraft Series (Official)",
-  "description": "The official Minecraft series produced by SEEN Studio.",
-  "logo": "https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg",
+  "name": "Still: A Minecraft Series",
+  "description": "Every evening, eight friends log into their shared Minecraft world, "STILL", to hang out, build ridiculous contraptions, and explore endless biomes. what started as a simple survival world becomes something much more - a complex story.",
+  "logo": "https://i.imgur.com/ve4eTqO.png",
   "resources": ["catalog", "meta", "stream"],
   "types": ["series"],
   "idPrefixes": ["tt38813105"],
