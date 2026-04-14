@@ -12,6 +12,12 @@
     "description": "Produced by SEEN Studio. 'STILL' is an immersive Minecraft series following an epic journey. Every evening, eight friends log into their shared Minecraft world, 'STILL', to hang out, build ridiculous contraptions, and explore endless biomes. what started as a simple survival world becomes something much more - a complex story.",
     "releaseInfo": "2024",
     "status": "In Production",
+    "trailers": [
+      {
+        "source": "8qbObmtShp4",
+        "type": "Trailer"
+      }
+    ],
     "videos": [
       {
         "id": "tt38813105:1:0",
@@ -68,7 +74,70 @@
         "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
         "season": 1,
         "episode": 5
-      }
+      },
+      {
+        "id": "tt38813105:1:6",
+        "title": "(Coming Soon)",
+        "released": "2026-11-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 6
+      },
+            {
+        "id": "tt38813105:1:7",
+        "title": "(Coming Soon)",
+        "released": "2026-12-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 7
+      },
+            {
+        "id": "tt38813105:1:8",
+        "title": "(Coming Soon)",
+        "released": "2027-01-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 8
+      },
+            {
+        "id": "tt38813105:1:9",
+        "title": "(Coming Soon)",
+        "released": "2027-02-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 9
+      },
+            {
+        "id": "tt38813105:1:10",
+        "title": "(Coming Soon)",
+        "released": "2027-03-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 10
+      },
+            {
+        "id": "tt38813105:1:11",
+        "title": "(Coming Soon)",
+        "released": "2027-04-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 11
+      },
+            {
+        "id": "tt38813105:1:12",
+        "title": "(Coming Soon)",
+        "released": "2027-05-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 12
+      },
     ]
   }
 }
