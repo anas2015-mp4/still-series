@@ -15,3 +15,9 @@
     }
   ]
 }
+{
+  "stremioAddonsConfig": {
+    "issuer": "https://stremio-addons.net",
+    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..aHz9zro57e8EWXHpAgS0Og.98yne5V3t51YguShsGlbEhBHqPgja-BhrLiZZmCnfcLrom1l9Bb25bN8CEkqbsRW4gTRovUBw1QHdm9DtpVXUqtmeERFMNlnhjoeuEtzpxoIZzC9EO25HmcJmSe1LTB2.2zSrk482MepA_4If7wViNA"
+  }
+}
