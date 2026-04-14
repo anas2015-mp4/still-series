@@ -7,7 +7,7 @@
     "poster": "https://i.imgur.com/akgIrNK.png",
     "background": "https://i.imgur.com/tF8PJsr.png",
     "logo": "https://i.imgur.com/ve4eTqO.png",
-    "description": "Produced by SEEN Studio. 'Still' is an immersive Minecraft series following an epic journey.Every evening, eight friends log into their shared Minecraft world, 'STILL', to hang out, build ridiculous contraptions, and explore endless biomes. what started as a simple survival world becomes something much more - a complex story.",
+    "description": "Produced by SEEN Studio. 'STILL' is an immersive Minecraft series following an epic journey. Every evening, eight friends log into their shared Minecraft world, 'STILL', to hang out, build ridiculous contraptions, and explore endless biomes. what started as a simple survival world becomes something much more - a complex story.",
     "releaseInfo": "2024",
     "status": "In Production",
     "videos": [
@@ -37,6 +37,33 @@
         "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
         "season": 1,
         "episode": 2
+      },
+      {
+        "id": "tt38813105:1:3",
+        "title": "(Coming Soon)",
+        "released": "2026-06-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 3
+      },
+      {
+        "id": "tt38813105:1:4",
+        "title": "(Coming Soon)",
+        "released": "2026-08-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 4
+      },
+      {
+        "id": "tt38813105:1:5",
+        "title": "(Coming Soon)",
+        "released": "2026-10-18T00:00:00.000Z",
+        "thumbnail": "https://img.youtube.com/vi/",
+        "overview": "This episode is currently underwork by SEEN Studio. Stay tuned for the release!",
+        "season": 1,
+        "episode": 5
       }
     ]
   }
