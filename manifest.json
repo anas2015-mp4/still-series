@@ -2,7 +2,7 @@
   "id": "com.seen.still",
   "version": "1.0.0",
   "name": "Still: A Minecraft Series",
-  "description": "Every evening, eight friends log into their shared Minecraft world, STILL, to hang out, build ridiculous contraptions, and explore endless biomes. What started as a simple survival world becomes something much more - a complex story.",
+  "description": "Produced by SEEN Studio. 'Still' is an immersive Minecraft series following an epic journey.",
   "logo": "https://i.imgur.com/ve4eTqO.png",
   "resources": ["catalog", "meta", "stream"],
   "types": ["series"],
