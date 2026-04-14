@@ -14,9 +14,5 @@
       "name": "SEEN Studio"
     }
   ]
-  "stremioAddonsConfig": {
-    "issuer": "https://stremio-addons.net",
-    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..F374foI1ncbIt4iLDWRung.B2pjrofk2RNlPLtUlbXE2XzcAxtjFI_-nNP2EXep9vc0K6Hm6ba_CfbLh144evaQ66QJ5ckfFl4CIgRIQXsajXQkaff1DKTOnlPxjFLjSHcw6e71DjIXSOE4ffvldRWJ.uLL6ks9rt8fmVy6-oMuKzA"
-  }
 }
 
