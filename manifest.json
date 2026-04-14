@@ -14,10 +14,9 @@
       "name": "SEEN Studio"
     }
   ]
-}
-{
   "stremioAddonsConfig": {
     "issuer": "https://stremio-addons.net",
-    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..aHz9zro57e8EWXHpAgS0Og.98yne5V3t51YguShsGlbEhBHqPgja-BhrLiZZmCnfcLrom1l9Bb25bN8CEkqbsRW4gTRovUBw1QHdm9DtpVXUqtmeERFMNlnhjoeuEtzpxoIZzC9EO25HmcJmSe1LTB2.2zSrk482MepA_4If7wViNA"
+    "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..F374foI1ncbIt4iLDWRung.B2pjrofk2RNlPLtUlbXE2XzcAxtjFI_-nNP2EXep9vc0K6Hm6ba_CfbLh144evaQ66QJ5ckfFl4CIgRIQXsajXQkaff1DKTOnlPxjFLjSHcw6e71DjIXSOE4ffvldRWJ.uLL6ks9rt8fmVy6-oMuKzA"
   }
 }
+
