@@ -2,7 +2,7 @@
   "id": "com.seen.still",
   "version": "1.0.0",
   "name": "Still: A Minecraft Series",
-  "description": "Every evening, eight friends log into their shared Minecraft world, STILL, to hang out, build ridiculous contraptions, and explore endless biomes. what started as a simple survival world becomes something much more - a complex story.",
+  "description": "Every evening, eight friends log into their shared Minecraft world, STILL, to hang out, build ridiculous contraptions, and explore endless biomes. What started as a simple survival world becomes something much more - a complex story.",
   "logo": "https://i.imgur.com/ve4eTqO.png",
   "resources": ["catalog", "meta", "stream"],
   "types": ["series"],
@@ -13,7 +13,7 @@
       "id": "seen_catalog",
       "name": "SEEN Studio"
     }
-  ]
+  ],
   "stremioAddonsConfig": {
     "issuer": "https://stremio-addons.net",
     "signature": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..MYFaLoZ2Xdqr9wdHypuBxA.E1mhVTkR2BUmVZoi4flSgJXeCCmOleQKPdaS5hxTbpVr5Ae3HSys-Y_S93Q2QIs4sqIyHd4qinLx8y85U8Xcswa482SLHCjsFCtQKXuQJBIAPthafCmH1NTWTUalA2oE.UikCc0BuavRUbDppaWQ2xg"
